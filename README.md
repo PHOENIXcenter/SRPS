@@ -1,4 +1,4 @@
-# Survival Reinforced Cohort Adaptation for Proteomic Subtyping and Significant Protein Discovery with Model Interpretation
+# Survival Reinforced Transfer Learning for Multicentric Proteomic Subtyping and Biomarker Discovery with Model Interpretation
 
 This is the source code and data for reproducing the results and figures of the papar with hte same title.
 
